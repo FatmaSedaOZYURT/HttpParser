@@ -1,0 +1,11 @@
+C:\Users\FatmaSeda\Documents\GitHub\HttpParser\HtmlParser\HtmlParser\bin\Debug\HtmlParser.exe.config
+C:\Users\FatmaSeda\Documents\GitHub\HttpParser\HtmlParser\HtmlParser\bin\Debug\HtmlParser.exe
+C:\Users\FatmaSeda\Documents\GitHub\HttpParser\HtmlParser\HtmlParser\bin\Debug\HtmlParser.pdb
+C:\Users\FatmaSeda\Documents\GitHub\HttpParser\HtmlParser\HtmlParser\bin\Debug\HtmlAgilityPack.dll
+C:\Users\FatmaSeda\Documents\GitHub\HttpParser\HtmlParser\HtmlParser\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\FatmaSeda\Documents\GitHub\HttpParser\HtmlParser\HtmlParser\bin\Debug\HtmlAgilityPack.xml
+C:\Users\FatmaSeda\Documents\GitHub\HttpParser\HtmlParser\HtmlParser\obj\Debug\HtmlParser.csprojAssemblyReference.cache
+C:\Users\FatmaSeda\Documents\GitHub\HttpParser\HtmlParser\HtmlParser\obj\Debug\HtmlParser.csproj.CoreCompileInputs.cache
+C:\Users\FatmaSeda\Documents\GitHub\HttpParser\HtmlParser\HtmlParser\obj\Debug\HtmlParser.csproj.CopyComplete
+C:\Users\FatmaSeda\Documents\GitHub\HttpParser\HtmlParser\HtmlParser\obj\Debug\HtmlParser.exe
+C:\Users\FatmaSeda\Documents\GitHub\HttpParser\HtmlParser\HtmlParser\obj\Debug\HtmlParser.pdb
